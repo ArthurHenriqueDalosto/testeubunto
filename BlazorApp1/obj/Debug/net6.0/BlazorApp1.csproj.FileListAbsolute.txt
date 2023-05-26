@@ -30,3 +30,35 @@ C:\Users\ArthurHenriqueDalost\OneDrive - Deliver IT\Área de Trabalho\testes\Bla
 C:\Users\ArthurHenriqueDalost\OneDrive - Deliver IT\Área de Trabalho\testes\BlazorApp1\BlazorApp1\obj\Debug\net6.0\BlazorApp1.pdb
 C:\Users\ArthurHenriqueDalost\OneDrive - Deliver IT\Área de Trabalho\testes\BlazorApp1\BlazorApp1\obj\Debug\net6.0\BlazorApp1.genruntimeconfig.cache
 C:\Users\ArthurHenriqueDalost\OneDrive - Deliver IT\Área de Trabalho\testes\BlazorApp1\BlazorApp1\obj\Debug\net6.0\ref\BlazorApp1.dll
+C:\GitBug\testeubunto\BlazorApp1\bin\Debug\net6.0\appsettings.Development.json
+C:\GitBug\testeubunto\BlazorApp1\bin\Debug\net6.0\appsettings.json
+C:\GitBug\testeubunto\BlazorApp1\bin\Debug\net6.0\BlazorApp1.staticwebassets.runtime.json
+C:\GitBug\testeubunto\BlazorApp1\bin\Debug\net6.0\BlazorApp1.exe
+C:\GitBug\testeubunto\BlazorApp1\bin\Debug\net6.0\BlazorApp1.deps.json
+C:\GitBug\testeubunto\BlazorApp1\bin\Debug\net6.0\BlazorApp1.runtimeconfig.json
+C:\GitBug\testeubunto\BlazorApp1\bin\Debug\net6.0\BlazorApp1.dll
+C:\GitBug\testeubunto\BlazorApp1\bin\Debug\net6.0\BlazorApp1.pdb
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.AssemblyReference.cache
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfoInputs.cache
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfo.cs
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.CoreCompileInputs.cache
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.RazorAssemblyInfo.cache
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.RazorAssemblyInfo.cs
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorApp1.props
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp1.props
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorApp1.props
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\staticwebassets.build.json
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\staticwebassets.development.json
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\scopedcss\bundle\BlazorApp1.styles.css
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\scopedcss\projectbundle\BlazorApp1.bundle.scp.css
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.dll
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\refint\BlazorApp1.dll
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.pdb
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\BlazorApp1.genruntimeconfig.cache
+C:\GitBug\testeubunto\BlazorApp1\obj\Debug\net6.0\ref\BlazorApp1.dll

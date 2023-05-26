@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tdbb34LnMMERuGqZwabF3EPoW2iu0AX1KE/TBcgObrwfWPcXNHfqf/Fqc6CQWlTxbopYJEUhxuVKmMoCOdUaEQ==",
+  "dgSpecHash": "Z/60VAUImfgBA5o0fQmowmjnrO9b+6BzNBdnQp7tp2d+IUxEgyZ3NUxkwIBRpGPyObat+DhPwYlsTQZJDbAiiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ArthurHenriqueDalost\\OneDrive - Deliver IT\\Área de Trabalho\\testes\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "projectFilePath": "C:\\GitBug\\testeubunto\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
